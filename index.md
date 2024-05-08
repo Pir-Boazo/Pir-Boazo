@@ -1,5 +1,5 @@
 # github.io 
-### de création d'une à partir de page md.
+### test de création d'une site-page à partir d'une page md.
 
 - 👋 Hi, I’m @Pir-Boazo
 - 👀 I’m interested in programming and IT
