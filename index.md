@@ -1,13 +1,13 @@
-# test 
-### de création de site à partir de page md.
+# github.io 
+### de création d'une à partir de page md.
 
 - 👋 Hi, I’m @Pir-Boazo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in programming and IT
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate on student who learn CI/CD
+- 📫 How to reach me 
+- 😄 Pronouns: He
+- ⚡ Fun fact: i am not update
 
 <!---
 Pir-Boazo/Pir-Boazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
